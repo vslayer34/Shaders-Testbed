@@ -51,5 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Shaders-Testbed.sln"
+    "dotnet.defaultSolution": "Shaders-Testbed.sln",
+    "FSharp.suggestGitignore": false
 }
